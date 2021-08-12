@@ -1,0 +1,118 @@
+{
+    "Header": {
+
+        "title": "BloY | Data & Analytics Experts",
+        "paragraph": "We are experts in creating Digital Transformation of processes and Big Data Analytics solutions aimed at boosting business innovation, transforming and making your information profitable."
+
+    },
+    "About": {
+        "paragraph": "We are known as a technological company promoting innovation and software development helping companies to fulfill their goals, understanding their problems and providing them with the best solution for their needs. As a technological company our main goal is to provide you the tools and knowledge to grow up, to build a strong relationship and became your best strategy partner.",
+        "Why": [
+            "We adap the best products on the market to each client.",
+            "Experience in multiple industries.",
+            "Personalized monitoring of your transformation."
+        ],
+        "Why2": [
+            "Innovative solutions and a wide variety of services.",
+            "Measurement of return on investment.",
+            "High performance team."
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-pie-chart",
+            "name": "Data & Analytics",
+            "text": "We can help you understand the operation of your business by taking advantage of its data, to accelerate its growth through well-formed decisions. Our service includes data capture, cleaning, modeling and visualization."
+        },
+        {
+            "icon": "fa fa-user",
+            "name": "Project Management",
+            "text": "We know that the correct management of projects is essential to achieve results. We offers you the integral management of your projects, from the conception of the project to the delivery of the results."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Digital Transformation",
+            "text": "Digital Transformation (DT) plays the major role of planning, setting up, and controlling ICT projects, and ensuring efficient infrastructural change. DT develops strategies aimed at having users gain an understanding of developments in the digital arena, setting clear objectives and timelines. We bring forth cultural change in the business model by simplifying the adoption process, help with implementing new technologies and bring about fundamental changes in the current mode of operation of a company leading to improved revenue."
+        },
+        {
+            "icon": "fa fa-cogs",
+            "name": "Staff Augmentation",
+            "text": "We can provide you the best professionals to expand and enhance your business."
+        },
+        {
+            "icon": "fa fa-code",
+            "name": "SAP Consulting",
+            "text": "With the right expertise and support, SAP solutions can help you quickly and successfully carry out your digital transformation. Find out what we can do for you as a leading SAP consulting."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/luciano.jpg",
+            "name": "Bartoszensky Luciano",
+            "job": "Co-Founder - Data & Analytics",
+            "icon": "fa fa-linkedin",
+            "linkedin": "https://www.linkedin.com/in/lbartoszensky/"
+        },
+        {
+            "img": "img/team/guillermo.jpg",
+            "name": "Giliberti Guillermo",
+            "job": "Co-Founder - CTO",
+            "icon": "fa fa-linkedin",
+            "linkedin": "https://www.linkedin.com/in/guillermogiliberti/"
+        }, {
+            "img": "img/team/anaclaudia.jpg",
+            "name": "Bartoszensky Ana Claudia",
+            "job": "CEO - Senior SAP Consultant",
+            "icon": "fa fa-linkedin",
+            "linkedin": "https://www.linkedin.com/in/anaclaudiabartoszensky/    "
+        },
+        {
+            "img": "img/team/sergio.jpg",
+            "name": "Cannelli Sergio",
+            "job": "COO - Senior SAP Consultant",
+            "icon": "fa fa-linkedin",
+            "linkedin": "https://www.linkedin.com/in/sergiocannelli/"
+        }
+        
+    ],
+    "Contact": {
+        "address": "Av. Pueyrredón 151, Córdoba, Argentina",
+        "mapaddress": "https://www.google.com.ar/maps/place/Av.+Pueyrred%C3%B3n+151,+X5000BRB+C%C3%B3rdoba/@-31.4269058,-64.191895,18z/data=!3m1!4b1!4m5!3m4!1s0x9432a288e097dce7:0x2f2722c50a952eb3!8m2!3d-31.4269081!4d-64.1908007",
+        "phone": "+54 3548535757",
+        "email": "info@bloy.tech",
+        "linkedin": "https://www.linkedin.com/company/bloyinnovation/",
+        "instagram": "https://www.instagram.com/bloy.latam/",
+        "carrers": "careers@bloy.tech"
+    }
+}
